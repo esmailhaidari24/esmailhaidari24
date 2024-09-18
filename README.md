@@ -4,5 +4,5 @@ Je suis ravi de partager avec vous les projets que j'ai réalisés durant ma for
 
 + [ 💼 mon portfolio  ]( https://esmailhaidari24.github.io/portfolio/)
 
-+ [ 💼 mon portfolio  ](https://www.linkedin.com/in/esmail-haidari-31483b16a)
++ [ 💼 mon Linkdein  ](https://www.linkedin.com/in/esmail-haidari-31483b16a)
 
