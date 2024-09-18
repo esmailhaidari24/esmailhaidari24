@@ -9,3 +9,4 @@ Je suis ravi de partager avec vous les projets que j'ai réalisés durant ma for
 + [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/tonprofil)
 
 
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/tonprofil) [LinkedIn](https://www.linkedin.com/in/tonprofil)
