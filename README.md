@@ -4,10 +4,7 @@ Je suis ravi de partager avec vous les projets que j'ai réalisés durant ma for
 
 + [  portfolio  ]( https://esmailhaidari24.github.io/portfolio/)
 
-
-
-  + [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/esmail-haidari-31483b16a)
-
++ [mon Linkdein](linkedin.com/in/esmail-haidari-31483b16a)
 
 
 
