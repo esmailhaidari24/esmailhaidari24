@@ -1,8 +1,8 @@
 # Bonjour !
 
-Je suis ravi de partager avec vous les projets que j'ai réalisés durant ma formation en test logiciel. Actuellement, je suis à la recherche de nouvelles opportunités pour continuer à évoluer dans ce domaine.
+Je suis heureux de vous présenter les projets que j'ai réalisés au cours de ma formation en test logiciel. En ce moment, je suis à la recherche de nouvelles opportunités pour continuer à progresser dans ce domaine passionnant.
 
-## Mes Liens Professionnels
+## Découvrez-en plus :
 
-- **🌐 Portfolio**: [Découvrez mon portfolio](https://esmailhaidari24.github.io/portfolio/)
-- **💼 LinkedIn**: [Connectez-vous avec moi](https://www.linkedin.com/in/esmail-haidari-31483b16a)
+- **🌐 Portfolio** : [Découvrez mon portfolio ici](https://esmailhaidari24.github.io/portfolio/)
+- **💼 LinkedIn** : [Connectons-nous sur LinkedIn](https://www.linkedin.com/in/esmail-haidari-31483b16a)
