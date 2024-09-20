@@ -4,12 +4,9 @@ Je suis heureux de vous présenter les projets que j'ai réalisés au cours de m
 
 ## Découvrez-en plus :
 
-- **🌐 Portfolio** : [portfolio](https://esmailhaidari24.github.io/portfolio/)
+- **🌐 Portfolio** : [Mon portfolio](https://esmailhaidari24.github.io/portfolio/)
   
-- **💼 LinkedIn** : [LinkedIn](https://www.linkedin.com/in/esmail-haidari-31483b16a)
+- **💼 LinkedIn** : [Mon LinkedIn](https://www.linkedin.com/in/esmail-haidari-31483b16a)
   
-- **📄 CV** :[CV](https://github.com/esmailhaidari24/CV/blob/main/CV%20.PDF)
+- **📄 CV** :[MON CV](https://github.com/esmailhaidari24/CV/blob/main/CV%20.PDF)
 
-🌐 Portfolio : Mon portfolio
-💼 LinkedIn : Mon LinkedIn
-📄 CV : Mon CV
