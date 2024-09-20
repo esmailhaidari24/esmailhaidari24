@@ -8,5 +8,5 @@ Je suis heureux de vous présenter les projets que j'ai réalisés au cours de m
   
 - **💼 LinkedIn** : [Mon LinkedIn](https://www.linkedin.com/in/esmail-haidari-31483b16a)
   
-- **📄 CV** :[MON CV](https://github.com/esmailhaidari24/CV/blob/main/CV%20.PDF)
+- **📄 CV** : [MON CV](https://github.com/esmailhaidari24/CV/blob/main/CV%20.PDF)
 
